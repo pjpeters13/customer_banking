@@ -1,4 +1,5 @@
- Customer Banking System Project
+
+Customer Banking System Project
 Introduction
 This project is a Customer Banking System designed for educational purposes. It enables users to calculate and track the interest earned on savings and Certificate of Deposit (CD) accounts. With this application, students and users can input their savings and CD account information, calculate the interest earned over time, and view updated account balances after a user-defined number of months. This project aims to provide a practical understanding of how interest calculations affect savings and help in developing a personal finance management tool.
 
@@ -20,7 +21,7 @@ Navigate to the project directory in your terminal or command prompt.
 Install any dependencies if listed in a requirements.txt file by running pip install -r requirements.txt.
 Running the Application:
 
-Execute the main script (e.g., account.py) from your terminal while in the project directory.
+Execute the main script (e.g., python app.py) from your terminal while in the project directory.
 Follow the on-screen instructions to input your savings and CD account details and specify the calculation period.
 Usage Guide
 After launching the application, you will be prompted to enter:
