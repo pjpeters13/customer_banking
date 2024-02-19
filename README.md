@@ -9,6 +9,8 @@ Account Balance Update: Users can view their account balances after interest has
 User Input for Account Details: Users can input and modify their account details, including initial balance and interest rate.
 Flexible Time Frame: Users can specify the number of months over which they want to calculate interest, enabling short-term and long-term projections.
 Educational Tool: Serves as an educational resource for understanding financial concepts and personal finance management.
+
+
 Setup and Installation
 Prerequisites:
 
